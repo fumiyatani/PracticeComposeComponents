@@ -28,6 +28,7 @@ class MainActivity : ComponentActivity() {
                         verticalArrangement = Arrangement.SpaceAround,
                     ) {
                         PracticeTextFields()
+                        CurrentTextField()
                     }
                 }
             }
